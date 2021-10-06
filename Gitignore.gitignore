@@ -22,6 +22,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+#Custom
     *.psd*
     Images
     Photoshop
+    Illustrator
